@@ -1,27 +1,27 @@
 FreeGPT for All
 - AI兔兔.空间 : 1.ai22.space
 
-我们收集能够提供服务的地址，并且随时更新数据。欢迎提交补充或更正。
+小而精的GPT服务列表，每天验证、更新。欢迎提交补充或更正。
 
 地址可能随便被迫更新，关注公众号“阿兹海默”防失联。
 
 图例：🌟推荐 4️⃣有GPT-4 🧱有墙 🔑免费需密码 📗需关注公众号 💰需要付费
 
+https://230501.1gpt.uk/
+🌟
+免费，直连，密码：586-481-521B
+
+https://0501.betai55.uk/
+🌟
+免费，直连，好用，密码：weekly-01-x8%6bp
+
 https://chat.forefront.ai/
 🌟4️⃣🧱
-有GPT4，定制了不同聊天角色
+有GPT4，定制不同聊天角色，但有墙
 
 https://chat20.xeasy.me/
 🌟
 免费，直连，好用
-
-https://230428.1gpt.uk/
-🌟
-免费，直连，密码：586-481-521B
-
-https://w.betai55.uk/
-🌟
-免费，直连，好用，密码：weekly-01-x8%6bp
 
 https://b.qachat.pro/
 💰
@@ -43,4 +43,3 @@ http://www.vppp.cn/
 🌟
 免费，直连，好用
 
-GitHub | Last update: 23/4/27 15:19
